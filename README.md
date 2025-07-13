@@ -19,5 +19,5 @@ Revisar los datos de prueba insertados.
 Consultar la base de datos usando las consultas propuestas.
 -----------------------------------------
 Autores
-Estudiante: [Juan Pablo Forero Guerra]
+Estudiante: [Nicolas Alejandro Suarez Florez]
 Ficha SENA: [3141973]
